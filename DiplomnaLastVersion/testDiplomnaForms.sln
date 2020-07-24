@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testDiplomnaForms", "testDiplomnaForms\testDiplomnaForms.csproj", "{B1D6B66F-DA25-4DFE-9D1E-F858D49ED65B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6C2BE262-1916-45FB-96F6-F3D775EEA5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D6B66F-DA25-4DFE-9D1E-F858D49ED65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D6B66F-DA25-4DFE-9D1E-F858D49ED65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D6B66F-DA25-4DFE-9D1E-F858D49ED65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D6B66F-DA25-4DFE-9D1E-F858D49ED65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2BE262-1916-45FB-96F6-F3D775EEA5D9}.Debug|Any CPU.ActiveCfg = Debug
+		{6C2BE262-1916-45FB-96F6-F3D775EEA5D9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52668CF7-18C6-4F15-8408-F609502697A4}
+	EndGlobalSection
+EndGlobal
