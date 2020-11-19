@@ -1,5 +1,5 @@
-# C# Bachelor's degree defence project
-My C# bachelor's degree defence project, made on C# using Visual Studio.
+# C# RFID Report Manager (CRM System)
+My C# CRM System project, made on C# using Visual Studio.
 The project consists of Windows forms, and a simple database, which allows the user or administrator to make end-of-the month reports for employees and using those reports to create monthly payment receipts, helping the company by removing the need of paperwork.
 Generated reports can be sent to employees in the end of the month to help them know their monthly worked hours, and the amount of money that they are going to receive.
 
