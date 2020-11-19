@@ -11,3 +11,7 @@ If you do not have MS Access installed on your PC, a folder named "Redistributab
 After install, you can use these login credentials:
 Username: MasterAdmin
 Password: MasterAdmin
+
+
+All Rights Reserved
+© Petar Ivanov, 2020
