@@ -302,9 +302,6 @@
     <None Include="Resources\neutral gender emoji.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\logo_tu.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Diplomna_Database.accdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

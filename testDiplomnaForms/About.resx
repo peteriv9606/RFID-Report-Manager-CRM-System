@@ -117,15 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value>This program was made for Technical University of Varna 
-for Graduate Defence 
-by Peter Ivelinov Ivanov
-Faculty Number: 61562138, Specialty: SIT
-E-Mail: pr0princ3@gmail.com      
-+359 896 654 019
-
-
-January 2020</value>
-  </data>
 </root>
